@@ -1,0 +1,55 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    max-width: 700%;
+    margin: auto;
+}
+
+#navlist{
+    position: relative;
+    padding: 50px 0px;
+    width: 100%;
+    border-bottom: 1.5px solid black;
+    margin: 0 auto;
+}
+
+.name-blog {
+    font-family: 'Sofia';
+}
+
+#navlist a{
+    float: left;
+    display:block;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #CD5C5C;
+}
+
+.navlist-right{
+    float: right;
+}
+
+p{
+    font-size: 15px;
+    text-indent: 15px;
+    text-align: justify;
+    line-height: 1.4;
+}
+
+h1{
+    padding-top: 10px;
+    font-size: 19px;
+}
+
+.italic{
+    text-indent: 0%;
+    font-size: small;
+    color: #757575;
+    font-style: italic;
+}
+
+
